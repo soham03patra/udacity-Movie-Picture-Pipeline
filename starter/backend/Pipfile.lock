@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "82d15c0b71d3b477185f6c1b9e4d1ac2a0baa6ed936acd5753fcc51a1ef8f835"
+            "sha256": "7815621a5d958834df6019a6af7723604b25bddf96a61f1ace5f974a466f790b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -160,14 +160,6 @@
             "index": "pypi",
             "version": "==7.2.1"
         },
-        "six": {
-            "hashes": [
-                "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
-                "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
-            ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
-            "version": "==1.16.0"
-        },
         "tomli": {
             "hashes": [
                 "sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc",
@@ -178,10 +170,10 @@
         },
         "uwsgi": {
             "hashes": [
-                "sha256:35a30d83791329429bc04fe44183ce4ab512fcf6968070a7bfba42fc5a0552a9"
+                "sha256:e8f8b350ccc106ff93a65247b9136f529c14bf96b936ac5b264c6ff9d0c76257"
             ],
             "index": "pypi",
-            "version": "==2.0.21"
+            "version": "==2.0.31"
         },
         "werkzeug": {
             "hashes": [
